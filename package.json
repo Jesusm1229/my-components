@@ -11,6 +11,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~13.1.0",
+    "@angular/cdk": "^13.1.1",
     "@angular/common": "~13.1.0",
     "@angular/compiler": "~13.1.0",
     "@angular/core": "~13.1.0",
@@ -21,6 +22,7 @@
     "bulma": "^0.9.3",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
+    "ui-controls": "^1.0.1",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
